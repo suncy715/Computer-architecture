@@ -1,0 +1,11 @@
+1. 輸入檔請用command line的參數傳入，不可固定於程式中，固定於程式中會扣分
+	"./arch_fianl cache.org reference.lst"
+2. 程式一定要在g++或Code::Blocks 環境中可以compile。
+3. 請勿抄襲
+
+[verify]
+請將 verify, cache.org, reference.lst 以及您的output file: index.rpt 放在同一個資料夾下
+執行 "./verify cache.org reference.lst index.rpt"
+verify 執行完之後會印出結果至螢幕
+
+PS: 另提供在Code::Block平台編譯的 verify.exe 版本
