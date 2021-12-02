@@ -1,3 +1,5 @@
+Ref:　Zero Cost Indexing for Improved Processor Cache Performance.pdf
+
 請同學提早開始(歷年都有寫不出來的，所以請同學盡早準備)
 
 如有問題歡迎在討論區發問
